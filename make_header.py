@@ -37,7 +37,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </style>
 <rect class="bg" x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="14"/>
 <text class="name" x="40" y="86">Carlos Duarte</text>
-<text class="role" x="42" y="120">Embedded ML · Binary neural networks on microcontrollers</text>
+<text class="role" x="42" y="120">Embedded systems · Aspiring research engineer</text>
 <text class="code" x="42" y="160">bit = popcount(~(w ^ x)) &gt;= T; <tspan class="cursor">▌</tspan></text>
 {chr(10).join(cells)}
 </svg>
