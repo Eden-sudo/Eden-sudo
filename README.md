@@ -19,3 +19,7 @@ C · C++ · Python · PyTorch · TFLite Micro · CMSIS-NN · ESP-IDF · Platform
 ESP32 / ESP32-S3 / RP2350 / AVR · NVIDIA Jetson · Linux
 
 Spanish (native) · English (technical reading and writing; conversation improving)
+
+### Contact
+
+carlosduarte8097@gmail.com · [Résumé (PDF)](Carlos_Duarte_CV.pdf) · [symbex-1.pages.dev](https://symbex-1.pages.dev/)
