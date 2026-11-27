@@ -17,7 +17,7 @@ for r in range(ROWS):
         cells.append(f'<rect class="bit {cls}" x="{GX + c * (CELL + GAP)}" y="{GY + r * (CELL + GAP)}" '
                      f'width="{CELL}" height="{CELL}" rx="3" style="animation-duration:{dur}s;animation-delay:-{delay:.2f}s"/>')
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Carlos Duarte, embedded ML engineer">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Carlos Duarte, embedded systems, aspiring research engineer">
 <style>
   .bg {{ fill: #f8fafc; stroke: #d0d7de; }}
   .name {{ fill: #0f172a; font: 700 40px 'Segoe UI', Helvetica, Arial, sans-serif; }}

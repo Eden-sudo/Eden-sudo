@@ -1,4 +1,4 @@
-<img src="assets/header-v2.svg" alt="Carlos Duarte, embedded ML engineer" width="100%">
+<img src="assets/header-v2.svg" alt="Carlos Duarte, embedded systems, aspiring research engineer" width="100%">
 
 Mechatronics engineering student in Panama. I make neural networks run on very small chips, measure them on the real
 hardware, and say plainly where they lose. **Open to remote contract work** in embedded ML, model quantization and
