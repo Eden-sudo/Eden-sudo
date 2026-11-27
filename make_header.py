@@ -1,4 +1,4 @@
-"""Genera assets/header.svg: encabezado animado (solo CSS, sin JavaScript ni servicios externos).
+"""Genera assets/header-v2.svg: encabezado animado (solo CSS, sin JavaScript ni servicios externos).
 Uso: python3 make_header.py"""
 import random
 
@@ -42,5 +42,5 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 {chr(10).join(cells)}
 </svg>
 '''
-open("assets/header.svg", "w").write(svg)
-print("assets/header.svg", len(svg), "bytes")
+open("assets/header-v2.svg", "w").write(svg)
+print("assets/header-v2.svg", len(svg), "bytes")
